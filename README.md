@@ -10,7 +10,7 @@
 <p><a href="https://honeywellhome.com">Honeywell Home</a> plugin for 
   <a href="https://homebridge.io">Homebridge</a>. 
   
-  This Plugin allows you to control your T5, T6 and T9 Honeywell Home thermostats from HomeKit.
+  This Plugin allows you to control your T5, T6 and T9 Honeywell Home thermostats from HomeKit. <b>This specific fork adds a switch to the thermostat triggered if the desired temp range is reached in Auto mode.</b>
 </p>
 
 </span>
