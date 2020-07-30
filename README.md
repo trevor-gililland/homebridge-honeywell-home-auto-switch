@@ -2,7 +2,7 @@
 
 <a href="https://github.com/homebridge/verified/blob/master/verified-plugins.json"><img alt="homebridge-verified" src="https://raw.githubusercontent.com/donavanbecker/homebridge-honeywell-home/master/honeywell/Homebridge_x_Honeywell.svg?sanitize=true" width="500px"></a>
 
-# Homebridge Honeywell Home
+# Homebridge Honeywell Home Auto Switch
 
 <a href="https://www.npmjs.com/package/homebridge-honeywell-home"><img title="npm version" src="https://badgen.net/npm/v/homebridge-honeywell-home" ></a>
 <a href="https://www.npmjs.com/package/homebridge-honeywell-home"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-honeywell-home" ></a>
@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. Search for "Honeywell Home" on the plugin screen of [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x).
+1. Search for "Honeywell Home Auto Switch" on the plugin screen of [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x).
 2. Click **Install**.
 
 ## Configuration
