@@ -1,16 +1,16 @@
 {
   "displayName": "Homebridge Honeywell Home",
-  "name": "homebridge-honeywell-home",
-  "version": "6.1.0",
+  "name": "homebridge-honeywell-home-auto-switch",
+  "version": "1.0.0",
   "description": "A Honeywell Home https://honeywellhome.com plugin for Homebridge: https://github.com/homebridge/homebridge.",
   "author": "donavanbecker",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/donavanbecker/homebridge-honeywell-home.git"
+    "url": "git://github.com/trevor-gililland/homebridge-honeywell-home-autoswitch.git"
   },
   "bugs": {
-    "url": "https://github.com/donavanbecker/homebridge-honeywell-home/issues"
+    "url": "https://github.com/trevor-gililland/homebridge-honeywell-home-auto-switch/issues"
   },
   "engines": {
     "node": ">=10.17.0",
@@ -18,7 +18,7 @@
   },
   "main": "dist/index.js",
   "scripts": {
-    "developer": "DEBUG=honeywell-home homebridge -D -U `pwd` -P `pwd`",
+    "developer": "DEBUG=honeywell-home-auto-switch homebridge -D -U `pwd` -P `pwd`",
     "lint": "eslint src/**.ts",
     "watch": "npm run build && npm link && nodemon",
     "build": "rimraf ./dist && tsc",
